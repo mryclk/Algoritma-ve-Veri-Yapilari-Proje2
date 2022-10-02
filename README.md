@@ -1,2 +1,2 @@
-# Algoritma-ve-Veri-Yapilari-Proje2
+# Algoritma-ve-Veri-Yapilari-Projeler
 patika dev proje
